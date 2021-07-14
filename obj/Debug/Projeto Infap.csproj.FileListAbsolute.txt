@@ -1,0 +1,10 @@
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\bin\Debug\Projeto Infap.exe.config
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\bin\Debug\Projeto Infap.exe
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\bin\Debug\Projeto Infap.pdb
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto Infap.csprojAssemblyReference.cache
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto_Infap.frmPrincipal.resources
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto_Infap.Properties.Resources.resources
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto Infap.csproj.GenerateResource.cache
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto Infap.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto Infap.exe
+C:\Users\Gabriel Augusto\source\repos\Projeto Infap\Projeto Infap\obj\Debug\Projeto Infap.pdb
